@@ -30,7 +30,7 @@
     "ws": ">=7.2.3"
   },
   "devDependencies": {
-    "eslint": "^6.x.x",
+    "eslint": "^9.x.x",
     "eslint-config-airbnb-base": "^14.x.x",
     "eslint-plugin-html": "^6.x.x0",
     "eslint-plugin-import": "^2.x.x",
